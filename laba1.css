@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.image-info {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+#result {
+  margin-bottom: 20px;
+}
+
+#color-values {
+  width: 500px;
+  height: auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
